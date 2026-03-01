@@ -1,0 +1,35 @@
+1. Dữ liệu & Phân tích dữ liệu
+- Dữ liệu (data) là những số liệu và thống kê để phân tích (analyze) và đối chiếu (reference)
+- Phân tích dữ liệu (data analysis) là quá trình xử lý và phân tích dữ liệu thô để phát hiện xu hướng và đưa ra nhận định.
+
+2. Vòng đời dữ liệu (The Data Cycle)
+- B1: Đặt câu hỏi hoặc đưa ra vấn đề
+- B2: Thu thập và tìm kiếm dữ liệu liên quan
+- B3: Sử dụng công cụ & kỹ thuật để phân tích dữ liệu
+- B4: Rút ra kết luận. Quay lại B1 nếu có vấn đề phát sinh.
+
+3. Ví dụ: Nghiên cứu, phân tích dữ liệu của 1 shop thời trang để tăng doanh thu
+    Bước 1: Đặt vấn đề
+        - Phân tích dữ liệu và đưa ra hướng giải quyết để tăng doanh thu
+
+    Bước 2: Thu thập dữ liệu
+        - Phỏng vấn nhân viên cửa hàng
+            Đang bán những mặt hàng nào?
+            Số lượng bán ra của từng mặt hàng (theo tháng)
+            Số lượng mặt hàng tồn kho (và các loại hàng tồn kho)
+            Sản phẩm bán chạy nhất
+        - Phỏng vấn khách hàng  
+            Các lựa chọn sản phẩm của khách hàng (hay mua đồ gì, tại sao,...)
+            Tần suất mua hàng
+            Số tiền trung bình chi tiêu cho 1 lần mua sắm
+        ...............
+
+    Bước 3: Phân tích dữ liệu
+        - Mặt hàng bán chạy/ưa thích => Đẩy mạnh quảng cáo & sp tương tự
+        - Số lượng mặt hàng bán trong tháng, hàng tồn kho => điều chỉnh khối lượng nhập hàng để tăng tỉ suất lợi nhuận
+        - Các lựa chọn của khách hàng => nhu cầu của khách hàng (thời trang, nội thất, làm đẹp,...)
+        - Tần suất mua hàng => đưa ra các chính sách khuyến mãi, cskh hợp lý
+        - Số tiền chi tiêu trung bình => phân bổ các loại sản phẩm phù hợp với tệp khách hàng (giá rẻ, cao cấp)
+        .................
+
+    Bước 4: Trình bày kết quả
