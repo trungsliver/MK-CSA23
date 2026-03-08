@@ -1,0 +1,4 @@
+Tổng hợp link Google Colab các buổi học
+
+Lesson 1: Lý thuyết về dữu liệu (viết trong VS Code)
+Lesson 2: https://colab.research.google.com/drive/1h5W-2IHNMobO8PApbQCpul-OM9yaJeSW?usp=sharing
