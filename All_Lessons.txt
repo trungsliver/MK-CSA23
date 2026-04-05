@@ -5,3 +5,4 @@ Lesson 2: https://colab.research.google.com/drive/1h5W-2IHNMobO8PApbQCpul-OM9yaJ
 Lesson 3: https://colab.research.google.com/drive/1Or1N-QanGfB2tTLBBXw9-WcbQk4hp-Sy?usp=sharing
 Lesson 4: https://colab.research.google.com/drive/1YxOroQtEU_rMfe1PV-UWdCKw3Ot1Kd8L?usp=sharing
 Lesson 5: https://colab.research.google.com/drive/1JA3qxW5bclL3c79uAruqfAxRCrK_rlP3?usp=sharing
+Lesson 6: https://colab.research.google.com/drive/1WQ8pBqruf0daP31YH59eiGExfw6anBK2?usp=sharing
