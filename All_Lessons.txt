@@ -7,3 +7,4 @@ Lesson 4: https://colab.research.google.com/drive/1YxOroQtEU_rMfe1PV-UWdCKw3Ot1K
 Lesson 5: https://colab.research.google.com/drive/1JA3qxW5bclL3c79uAruqfAxRCrK_rlP3?usp=sharing
 Lesson 6: https://colab.research.google.com/drive/1WQ8pBqruf0daP31YH59eiGExfw6anBK2?usp=sharing
 Lesson 7: https://colab.research.google.com/drive/14mcDevfuk_6eQMHNBUCGLA_gBv3jH5pn?usp=sharing
+Lesson 8: https://colab.research.google.com/drive/1JHA4oRKj2ptxAceS6Hw7WhvGzLnczgSV?usp=sharing
