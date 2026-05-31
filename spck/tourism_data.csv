@@ -1,0 +1,201 @@
+Trip ID,Destination,Country,Travel Date,Return Date,Trip Duration (Days),Cost (USD),Accommodation Type,Transportation Mode,Group Size,Purpose of Travel,Satisfaction Score (1-5),Activities Included,Booking Source,Season,Traveler Age,Gender,Income Level,Recommendation Score (%),Travel Insurance,Weather Rating (1-5)
+82e2e662-f728-44fa-8248-5e3a0a5d2f34,Singapore,Singapore,2025-01-03,2025-01-13,10,2798,Resort,Car,2,Honeymoon,3,4,Online,Winter,29,Female,Upper-Middle,83,No,2
+4da5e709-d471-4d60-88a7-0639eb1167b3,Dubai,UAE,2025-01-03,2025-01-12,9,2792,Resort,Plane,10,Cultural,4,6,Direct Booking,Summer,64,Male,Low,78,Yes,5
+37ebdcd9-e87a-4613-a443-df789558867f,Tokyo,Japan,2025-01-03,2025-01-11,8,3340,Camping,Plane,9,Cultural,4,7,Travel Agency,Winter,31,Female,Low,85,Yes,3
+1846d424-c17c-4279-a3c6-612f48268673,Rome,Italy,2025-01-04,2025-01-07,3,3398,Hostel,Ship,9,Business,2,2,Direct Booking,Summer,18,Male,Middle,57,Yes,5
+fb97d435-8856-4712-a8e5-216afcbd04c3,New York,USA,2025-01-04,2025-01-10,6,3296,Hostel,Ship,7,Adventure,1,6,Direct Booking,Summer,65,Male,High,21,Yes,1
+12e0c8b2-bad6-40fb-9948-8dec4f65d4d9,Bangkok,Thailand,2025-01-04,2025-01-07,3,1161,Camping,Bus,8,Honeymoon,4,4,Online,Summer,40,Male,Middle,76,Yes,1
+6f25e2a2-5a92-4187-99c7-8df48f4ff31e,Sydney,Australia,2025-01-03,2025-01-14,11,1518,Resort,Train,1,Honeymoon,1,1,Direct Booking,Autumn,38,Female,Upper-Middle,42,Yes,4
+f77383c1-3458-4748-a9bb-17bca3f2c9bf,Dubai,UAE,2025-01-02,2025-01-16,14,1878,Hotel,Plane,4,Honeymoon,2,2,Direct Booking,Autumn,43,Male,Middle,57,Yes,4
+42af9fc3-8577-4e9a-9d84-f39e71545a13,Singapore,Singapore,2025-01-04,2025-01-15,11,2771,Resort,Train,2,Honeymoon,5,2,Online,Autumn,66,Female,Upper-Middle,76,No,1
+b83e90ec-17e0-4a3c-8398-3ca8ea7e9d49,Singapore,Singapore,2025-01-01,2025-01-14,13,3804,Airbnb,Bus,7,Cultural,5,1,Travel Agency,Spring,36,Male,Middle,97,Yes,5
+7e5b1e7f-9ca5-499d-804a-e545a0116be5,Singapore,Singapore,2025-01-03,2025-01-19,16,1997,Camping,Train,3,Cultural,2,2,Online,Summer,19,Female,Middle,60,No,2
+ded733e8-b421-4aeb-9340-97cabaf3897a,New York,USA,2025-01-03,2025-01-08,5,1662,Hostel,Bus,2,Vacation,5,3,Online,Winter,50,Male,Middle,83,Yes,1
+3d15eef7-38c1-462e-9148-624feac1c14f,Sydney,Australia,2025-01-01,2025-01-05,4,2414,Airbnb,Train,10,Vacation,4,2,Travel Agency,Spring,66,Female,Low,58,Yes,1
+fe43c49e-1498-48d1-9759-edc372ae2244,Rome,Italy,2025-01-01,2025-01-14,13,3510,Hotel,Train,9,Vacation,1,5,Online,Autumn,26,Female,Middle,17,No,4
+1beb3711-7d41-4602-aece-328bff7b118e,Tokyo,Japan,2025-01-02,2025-01-14,12,2349,Camping,Train,9,Adventure,5,5,Travel Agency,Autumn,69,Male,Low,80,No,2
+8c25166a-1ff3-4849-b4e1-357d4a84eb03,Dubai,UAE,2025-01-02,2025-01-15,13,4571,Camping,Car,1,Vacation,1,5,Direct Booking,Winter,26,Male,Middle,19,No,4
+9a6a5f92-cca7-4147-b6be-1f723405095c,Rome,Italy,2025-01-03,2025-01-16,13,3678,Hotel,Car,2,Vacation,2,2,Travel Agency,Spring,21,Female,Middle,57,Yes,2
+98a6416d-1775-436d-b1ea-cd0549a3e80e,Dubai,UAE,2025-01-04,2025-01-18,14,2757,Resort,Train,5,Vacation,5,1,Online,Summer,31,Male,Middle,101,Yes,2
+2f120554-4a53-48cc-bdfa-bc08935ddd72,New York,USA,2025-01-03,2025-01-10,7,1497,Resort,Bus,8,Adventure,2,4,Online,Winter,56,Male,Low,41,No,5
+a81ad477-fb36-45b8-9cde-b3e60870e15c,Singapore,Singapore,2025-01-02,2025-01-06,4,2836,Airbnb,Car,7,Honeymoon,4,3,Online,Winter,62,Female,Middle,60,Yes,5
+c1f254b8-adc0-4a7a-96fe-baa011af923d,Singapore,Singapore,2025-01-02,2025-01-13,11,4712,Resort,Ship,6,Cultural,3,4,Travel Agency,Autumn,47,Male,Middle,39,No,2
+148b2758-d7ab-4928-89e4-69e6ec62b2c8,Tokyo,Japan,2025-01-01,2025-01-04,3,3762,Airbnb,Plane,7,Adventure,1,4,Travel Agency,Spring,28,Male,Low,42,Yes,1
+468ff53d-864a-4a50-b48d-73f1d67e55fd,Dubai,UAE,2025-01-04,2025-01-13,9,1593,Camping,Plane,1,Cultural,2,2,Online,Autumn,33,Male,Middle,55,Yes,1
+adf20806-e521-4606-b717-6e84d977e993,New York,USA,2025-01-04,2025-01-09,5,4118,Airbnb,Train,6,Honeymoon,3,5,Direct Booking,Spring,48,Male,Upper-Middle,35,Yes,5
+7e1ea9c5-7358-4a81-8674-37419466e472,Sydney,Australia,2025-01-04,2025-01-14,10,2227,Airbnb,Car,2,Vacation,5,7,Travel Agency,Autumn,52,Male,High,95,Yes,2
+1d878f9f-9cdf-4a86-9306-f3f515166570,New York,USA,2025-01-04,2025-01-12,8,2741,Hostel,Train,2,Business,3,4,Travel Agency,Winter,58,Male,Low,41,Yes,2
+30bcab0e-d857-4102-95d4-4936a1515607,New York,USA,2025-01-03,2025-01-17,14,2959,Hotel,Bus,6,Honeymoon,3,6,Direct Booking,Spring,33,Female,Middle,55,Yes,5
+b490b608-1dfc-4352-8562-be7fbb42e0b2,Tokyo,Japan,2025-01-02,2025-01-02,0,1516,Airbnb,Car,5,Adventure,3,4,Direct Booking,Winter,38,Female,Upper-Middle,57,No,3
+6d16ee18-5521-46dd-aba4-b180cb69ca38,Dubai,UAE,2025-01-02,2025-01-11,9,1130,Airbnb,Plane,7,Adventure,3,5,Travel Agency,Spring,65,Male,Low,79,Yes,4
+b29a8b06-daf6-4c5f-a577-bffac87a7463,Singapore,Singapore,2025-01-01,2025-01-03,2,3086,Camping,Car,10,Adventure,3,5,Online,Spring,51,Female,Upper-Middle,57,Yes,3
+e8f6cf32-a25b-49fd-92e8-e269d12ecbc4,Bangkok,Thailand,2025-01-02,2025-01-03,1,2317,Hotel,Ship,8,Vacation,1,5,Travel Agency,Summer,64,Female,Low,23,Yes,1
+1fdb8b32-06d5-49e8-92f1-75ffae3b16ec,Paris,France,2025-01-04,2025-01-18,14,2903,Hostel,Car,8,Honeymoon,1,7,Online,Spring,61,Female,Middle,24,Yes,4
+1ea45cd6-9371-471f-9480-865f9b38fe80,Sydney,Australia,2025-01-04,2025-01-08,4,1194,Airbnb,Bus,2,Adventure,2,6,Travel Agency,Spring,67,Female,Middle,19,No,4
+1db53334-fb03-43a1-9576-d4155ec17dbe,New York,USA,2025-01-03,2025-01-05,2,2560,Hostel,Plane,2,Cultural,5,1,Online,Autumn,51,Male,Middle,100,Yes,3
+f87f43fd-f606-4541-b1d0-b6640589f877,Singapore,Singapore,2025-01-01,2025-01-15,14,2800,Hostel,Ship,7,Business,5,6,Direct Booking,Summer,20,Male,Middle,102,No,4
+ba26d851-35e8-479a-baaf-0e891fb797fa,Dubai,UAE,2025-01-02,2025-01-19,17,2418,Hotel,Car,1,Adventure,2,2,Travel Agency,Winter,53,Female,High,63,Yes,5
+9edfa3da-6cf5-4b15-8b53-031d05d51433,Paris,France,2025-01-01,2025-01-17,16,1394,Resort,Train,5,Vacation,5,5,Direct Booking,Winter,29,Female,Low,97,No,3
+a59cec98-126c-4c8f-b888-447911ebcd49,Singapore,Singapore,2025-01-01,2025-01-07,6,3404,Hotel,Plane,6,Business,5,7,Direct Booking,Summer,29,Female,Upper-Middle,101,Yes,2
+80ee526e-0fa0-4a3f-ae29-50656fa231e9,Sydney,Australia,2025-01-02,2025-01-10,8,2145,Resort,Ship,9,Honeymoon,3,1,Direct Booking,Spring,61,Male,Middle,59,Yes,3
+fcfcfa81-b306-4700-99d5-f97098b33c6e,Bangkok,Thailand,2025-01-03,2025-01-03,0,3379,Hostel,Car,3,Honeymoon,4,5,Online,Summer,30,Male,High,75,No,5
+bb4a06cb-e786-4b37-9bca-47be429817c5,Bangkok,Thailand,2025-01-03,2025-01-07,4,3806,Camping,Plane,5,Honeymoon,2,6,Direct Booking,Winter,48,Male,Upper-Middle,45,Yes,5
+3412fc12-ac32-4c12-b29c-467d2b5f6932,Paris,France,2025-01-03,2025-01-16,13,3516,Resort,Plane,4,Vacation,4,1,Travel Agency,Winter,59,Male,Middle,99,Yes,2
+57a1cb71-2975-4279-986d-bf1128805c5d,Paris,France,2025-01-01,2025-01-17,16,2543,Airbnb,Ship,4,Adventure,3,4,Direct Booking,Spring,23,Male,High,43,Yes,1
+713b7e05-ebe2-4368-98c7-52051e01a934,Dubai,UAE,2025-01-04,2025-01-10,6,2744,Camping,Bus,4,Business,4,6,Direct Booking,Summer,53,Male,Upper-Middle,79,Yes,5
+e66cd36e-68ef-4f5f-ae68-690a78bc7175,Tokyo,Japan,2025-01-02,2025-01-02,0,2233,Resort,Ship,7,Vacation,2,2,Online,Winter,56,Female,Middle,55,Yes,1
+5b6e4ae7-a620-4143-8fba-ecc0eae2025e,Rome,Italy,2025-01-04,2025-01-16,12,2763,Hostel,Car,7,Business,1,3,Travel Agency,Summer,68,Female,Low,25,Yes,3
+b0d9c2aa-8f83-4ef7-a746-0f22403d1f83,Paris,France,2025-01-03,2025-01-18,15,711,Hotel,Bus,3,Vacation,3,1,Online,Winter,35,Male,Middle,60,Yes,2
+bd30291a-55fe-408e-943e-2e04bdd7d19b,Tokyo,Japan,2025-01-01,2025-01-12,11,4189,Hostel,Ship,8,Vacation,4,5,Direct Booking,Autumn,20,Male,Middle,64,Yes,4
+c31d5a97-3d79-4fa1-a284-b7a447e7f593,Dubai,UAE,2025-01-01,2025-01-14,13,4839,Hotel,Bus,7,Vacation,3,6,Online,Spring,40,Male,Upper-Middle,41,No,1
+5bf49c04-ac64-4b4c-89b2-5ded9c31d9b2,New York,USA,2025-01-03,2025-01-11,8,4179,Hotel,Ship,10,Honeymoon,1,1,Travel Agency,Autumn,46,Male,Middle,43,Yes,4
+b732d46f-21e1-4094-9efe-e464da90f534,Paris,France,2025-01-04,2025-01-19,15,671,Hotel,Ship,3,Vacation,2,1,Online,Autumn,54,Male,High,64,No,1
+a69cfb85-d432-48db-aa17-4c1cbf9cc545,Dubai,UAE,2025-01-02,2025-01-11,9,1607,Resort,Plane,8,Cultural,3,7,Travel Agency,Spring,66,Female,Upper-Middle,64,Yes,5
+559b5975-b2d6-40af-b13b-32b798363189,Dubai,UAE,2025-01-01,2025-01-01,0,3698,Camping,Train,1,Vacation,2,7,Direct Booking,Autumn,28,Female,High,37,Yes,4
+60ef1471-72b8-4f39-a32c-9b6f391cf046,Tokyo,Japan,2025-01-01,2025-01-06,5,748,Hotel,Car,8,Adventure,4,2,Direct Booking,Winter,24,Female,Middle,83,Yes,4
+b3ab1b2c-df26-4517-a6fa-f98908135d58,Rome,Italy,2025-01-04,2025-01-14,10,2379,Resort,Ship,1,Business,1,4,Online,Summer,60,Female,High,16,Yes,3
+0bf9c0ef-b581-4b74-a985-ab61c5adf681,Sydney,Australia,2025-01-04,2025-01-14,10,4690,Camping,Train,3,Honeymoon,2,2,Online,Spring,35,Male,Middle,15,Yes,1
+285e25b4-b396-4057-825c-b200105ada6b,Paris,France,2025-01-02,2025-01-12,10,2221,Hotel,Plane,2,Business,2,4,Online,Winter,44,Male,Low,45,No,2
+8fb83bab-e875-4cd3-bcbd-7025e28bc9ff,Paris,France,2025-01-03,2025-01-15,12,2935,Camping,Car,2,Business,2,1,Online,Autumn,41,Male,Middle,60,No,4
+53710f57-7e9c-484f-89f6-048fe245a460,Paris,France,2025-01-04,2025-01-04,0,3523,Camping,Car,1,Adventure,4,6,Online,Spring,19,Male,High,81,Yes,1
+e00111e5-d29d-45df-8f1d-a1100cc36d8c,Singapore,Singapore,2025-01-02,2025-01-13,11,4841,Resort,Train,7,Cultural,3,4,Travel Agency,Winter,20,Female,Low,62,Yes,2
+a2121ac5-f689-44a5-bfda-03368c6e9037,Tokyo,Japan,2025-01-03,2025-01-07,4,1172,Camping,Train,2,Business,3,3,Travel Agency,Summer,22,Male,Upper-Middle,55,No,2
+66dd7794-03c5-4c71-bca0-55362169df82,Rome,Italy,2025-01-01,2025-01-18,17,3833,Airbnb,Bus,6,Cultural,1,7,Direct Booking,Spring,33,Male,Middle,45,No,2
+b7a28e0a-03a8-4879-b6a9-8d7400de59f5,New York,USA,2025-01-03,2025-01-10,7,3358,Hostel,Bus,1,Business,1,3,Online,Autumn,53,Male,Upper-Middle,19,Yes,1
+30c1fb6a-1908-4515-9cb0-17c18741ae91,Paris,France,2025-01-01,2025-01-17,16,2378,Resort,Train,1,Honeymoon,2,1,Direct Booking,Summer,46,Male,Middle,41,No,2
+4d6b234f-dfa7-46ed-b2d1-f81ba636425c,Bangkok,Thailand,2025-01-01,2025-01-15,14,2263,Airbnb,Plane,1,Business,3,3,Travel Agency,Autumn,59,Female,Upper-Middle,56,No,2
+79c147c7-19a5-411b-aea6-0b99fa7ff8bf,Dubai,UAE,2025-01-02,2025-01-18,16,4445,Airbnb,Ship,4,Cultural,5,2,Travel Agency,Winter,52,Female,High,105,Yes,2
+e9f41cc0-4653-4560-8597-aab614d30dbc,Rome,Italy,2025-01-03,2025-01-18,15,2320,Hotel,Plane,1,Vacation,4,5,Online,Spring,59,Female,Middle,64,Yes,4
+a7502a81-2227-496d-81a9-3f90dc821527,Rome,Italy,2025-01-03,2025-01-05,2,3445,Resort,Car,6,Cultural,2,3,Direct Booking,Winter,63,Female,Low,36,Yes,4
+df3277fd-1d77-4e40-98d8-7776a51ad4f3,Rome,Italy,2025-01-04,2025-01-19,15,3308,Airbnb,Bus,4,Honeymoon,3,5,Direct Booking,Summer,48,Female,Middle,63,Yes,1
+0a68e88e-0ad4-4415-84c1-4982d9ead926,Bangkok,Thailand,2025-01-01,2025-01-07,6,2946,Resort,Bus,1,Cultural,2,3,Direct Booking,Summer,69,Female,Middle,59,Yes,5
+f24dfdd8-5091-4bdc-8ef0-66d44279b14d,Sydney,Australia,2025-01-02,2025-01-18,16,4338,Hostel,Train,6,Adventure,4,1,Online,Autumn,43,Male,Middle,75,Yes,3
+d8ab0b30-0ac0-4f0d-9974-c146e8ec01b3,New York,USA,2025-01-03,2025-01-16,13,1129,Airbnb,Plane,2,Business,3,7,Travel Agency,Autumn,67,Male,Middle,60,Yes,4
+e7180322-a4e6-45c9-b65d-12267e969cf3,Dubai,UAE,2025-01-04,2025-01-19,15,4967,Hotel,Car,10,Cultural,5,3,Online,Summer,64,Male,Middle,83,Yes,4
+89b5b368-df14-4612-9f58-d5b56f790959,Sydney,Australia,2025-01-03,2025-01-18,15,4954,Camping,Ship,9,Business,4,3,Direct Booking,Winter,62,Female,Middle,105,No,4
+0247145f-4a81-4d53-964d-db776025f0ae,Sydney,Australia,2025-01-02,2025-01-07,5,4197,Camping,Car,8,Honeymoon,3,4,Online,Spring,47,Male,Middle,55,No,4
+ca24be4d-5667-4017-955a-40854578bab3,Dubai,UAE,2025-01-01,2025-01-04,3,3440,Airbnb,Ship,2,Business,5,6,Online,Spring,63,Female,High,85,No,2
+09215f4f-9edb-45f2-8787-ddfb5697f17c,Paris,France,2025-01-03,2025-01-05,2,1404,Airbnb,Car,3,Honeymoon,1,7,Travel Agency,Winter,26,Male,Middle,43,Yes,1
+955d0e77-fb5e-4866-a640-211e29f2c3c7,Rome,Italy,2025-01-01,2025-01-07,6,2056,Hotel,Plane,7,Cultural,1,3,Online,Spring,59,Male,Middle,25,Yes,3
+2130260c-8c69-478f-bd42-f69765111656,Dubai,UAE,2025-01-02,2025-01-10,8,3086,Hostel,Ship,10,Vacation,5,3,Travel Agency,Spring,58,Male,Upper-Middle,102,Yes,4
+ef0a81ed-3d5d-40bc-bb03-78eb7a62722e,New York,USA,2025-01-02,2025-01-04,2,3484,Hotel,Train,9,Cultural,3,5,Direct Booking,Winter,36,Female,Upper-Middle,59,Yes,4
+ba8982dd-85e6-4ea9-9b66-bfda2df96747,Bangkok,Thailand,2025-01-01,2025-01-08,7,1380,Resort,Bus,2,Cultural,5,6,Direct Booking,Summer,65,Male,Middle,82,Yes,4
+4c9a0ae1-5419-4efc-95e7-3e3f673617d9,Tokyo,Japan,2025-01-01,2025-01-08,7,1804,Hotel,Car,1,Adventure,4,7,Online,Winter,38,Female,Middle,100,Yes,2
+7b2e1b82-e89d-4815-8f92-8dc519724ce3,Rome,Italy,2025-01-03,2025-01-05,2,2738,Hostel,Plane,2,Adventure,3,7,Direct Booking,Autumn,19,Male,Middle,82,Yes,4
+cff4c56b-f9ea-4c64-8c41-7e7cd741d609,Rome,Italy,2025-01-03,2025-01-11,8,1224,Camping,Ship,6,Honeymoon,5,7,Online,Summer,57,Female,Middle,100,Yes,1
+7f6b8793-b318-4d4c-9db2-b4527aa56a18,Dubai,UAE,2025-01-03,2025-01-06,3,1297,Airbnb,Train,1,Business,2,3,Direct Booking,Summer,56,Female,Middle,65,Yes,3
+afe6790a-bc18-440b-95c7-ed9d4d4985dc,Dubai,UAE,2025-01-03,2025-01-03,0,4708,Camping,Ship,3,Cultural,2,1,Online,Summer,55,Male,Middle,65,No,5
+ce5dc807-6025-4199-9082-3edaa0722aa0,Bangkok,Thailand,2025-01-01,2025-01-05,4,1471,Hotel,Ship,5,Honeymoon,5,6,Direct Booking,Spring,37,Female,Middle,76,Yes,1
+32b2c492-15ac-47a1-8eca-2ee310da8a95,Sydney,Australia,2025-01-04,2025-01-06,2,946,Hostel,Bus,1,Business,3,4,Travel Agency,Summer,51,Male,Middle,43,Yes,1
+64d09913-191b-4adf-8202-861c62830869,Singapore,Singapore,2025-01-02,2025-01-03,1,3695,Resort,Bus,9,Business,3,3,Online,Winter,35,Female,Upper-Middle,60,Yes,2
+7d161f29-eb8f-4056-b2d3-cc5d4a31b243,Singapore,Singapore,2025-01-04,2025-01-16,12,1376,Camping,Bus,9,Adventure,4,1,Travel Agency,Summer,37,Female,Upper-Middle,105,Yes,5
+385af463-5e4a-4862-956a-f4586c4c3935,Paris,France,2025-01-04,2025-01-09,5,1633,Resort,Ship,4,Business,3,7,Direct Booking,Autumn,44,Female,Middle,85,Yes,1
+31234efe-6e64-4043-aaa5-0f4ec6f00933,Singapore,Singapore,2025-01-02,2025-01-16,14,3957,Camping,Ship,6,Cultural,3,5,Direct Booking,Spring,45,Male,Upper-Middle,62,Yes,1
+da54f267-dd13-4266-926d-53961058fe8c,Dubai,UAE,2025-01-03,2025-01-05,2,2978,Hostel,Car,9,Adventure,4,6,Travel Agency,Autumn,19,Male,Middle,76,Yes,5
+33a1d1c2-ad4a-4155-809f-cd8f739cd488,Bangkok,Thailand,2025-01-01,2025-01-13,12,897,Airbnb,Train,9,Honeymoon,2,2,Online,Summer,27,Male,Middle,65,Yes,1
+a41865bf-350d-478d-81a8-a6e165e04993,Sydney,Australia,2025-01-01,2025-01-13,12,1431,Airbnb,Plane,9,Cultural,5,6,Direct Booking,Spring,40,Female,Upper-Middle,104,No,5
+32ae2a20-1ac9-42ee-a577-7cf09f982188,Rome,Italy,2025-01-01,2025-01-06,5,812,Resort,Ship,7,Business,2,7,Online,Winter,36,Female,Low,20,Yes,5
+26bdd974-d3b5-44b0-8be0-4c3e5c949381,Tokyo,Japan,2025-01-03,2025-01-12,9,2948,Airbnb,Plane,2,Vacation,5,4,Travel Agency,Winter,27,Female,Upper-Middle,77,Yes,2
+905c053b-25fd-4cbe-bce7-1b48fba52e59,New York,USA,2025-01-01,2025-01-15,14,2360,Hostel,Train,10,Honeymoon,5,3,Direct Booking,Spring,22,Female,Middle,97,Yes,5
+856f3d95-e0ae-4a1b-ac59-6216ae0fdbc8,Paris,France,2025-01-03,2025-01-18,15,4798,Hotel,Plane,9,Honeymoon,1,5,Travel Agency,Summer,52,Male,Middle,25,No,2
+7fa74d8a-ff88-4c82-bf99-d273d5627386,Bangkok,Thailand,2025-01-04,2025-01-11,7,4430,Camping,Bus,7,Cultural,2,1,Travel Agency,Autumn,63,Male,Middle,37,Yes,2
+172f3ca4-66c8-434a-a476-182b48cc52cf,Bangkok,Thailand,2025-02-22 00:00:00,2025-02-24 00:00:00,2,2753,Airbnb,Plane,4,Honeymoon,2,3,Mobile App,Spring,19,Male,Middle,37,Yes,5
+9e9462d6-8213-41b6-a09c-46cc8435ccfc,Sydney,Australia,2025-04-23 00:00:00,2025-05-06 00:00:00,13,5823,Camping,Ship,12,Adventure,5,7,Online,Summer,62,Female,Upper-Middle,98,Yes,2
+b21bc6c8-0834-4f63-a63f-10874cbf9d6f,Bali,Indonesia,2025-06-26 00:00:00,2025-06-29 00:00:00,3,1259,Airbnb,Bus,7,Business,1,6,Mobile App,Spring,42,Male,Upper-Middle,30,No,5
+a036600b-3717-4750-8558-2c5d56bff031,Sydney,Australia,2025-02-10 00:00:00,2025-02-23 00:00:00,13,1069,Hostel,Plane,1,Cultural,2,5,Direct Booking,Winter,58,Female,Middle,41,No,2
+8094f1fb-a2b5-4946-9cdb-bce439cb0a8d,London,UK,2025-10-01 00:00:00,2025-10-14 00:00:00,13,5808,Hostel,Train,2,Cultural,5,3,Mobile App,Autumn,58,Other,Middle,100,Yes,2
+8e9d239d-4b24-4e83-b9b9-08f8c6d84f1a,Paris,France,2025-04-19 00:00:00,2025-05-03 00:00:00,14,3084,Airbnb,Bus,7,Leisure,3,2,Mobile App,Winter,59,Female,Middle,58,Yes,2
+3a046924-d0ad-4555-acf7-954af98a7fa6,Hanoi,Vietnam,2025-10-26 00:00:00,2025-11-05 00:00:00,10,2652,Camping,Bus,12,Leisure,5,7,Travel Agency,Winter,23,Male,Low,94,Yes,4
+a39fc850-4e35-4644-a7c8-9e24cdd124b1,Cape Town,South Africa,2025-09-28 00:00:00,2025-10-01 00:00:00,3,3652,Resort,Ship,7,Business,5,8,Online,Autumn,67,Other,Upper-Middle,93,No,4
+abba66e8-48f8-4d3f-9fee-c946442842f6,Seoul,South Korea,2025-04-02 00:00:00,2025-04-11 00:00:00,9,526,Airbnb,Plane,12,Family,3,9,Direct Booking,Summer,27,Female,Middle,67,Yes,5
+4803e7b7-f10a-4a50-a46a-1856a0c1d575,Bali,Indonesia,2025-05-03 00:00:00,2025-05-12 00:00:00,9,659,Hotel,Train,2,Honeymoon,3,5,Online,Spring,64,Female,Low,67,Yes,2
+7f0b7f27-f309-44e9-b5b1-18e7b8797c1d,Istanbul,Turkey,2025-08-05 00:00:00,2025-08-15 00:00:00,10,1852,Hostel,Ship,5,Family,5,10,Travel Agency,Autumn,43,Other,Upper-Middle,100,No,1
+0a146e19-3b13-4cf8-ae4c-48e90cc29843,Sydney,Australia,2025-10-11 00:00:00,2025-10-16 00:00:00,5,1024,Hostel,Ship,6,Leisure,1,10,Online,Spring,63,Other,Low,17,Yes,1
+2a513137-2232-4225-8c77-cc77805f2588,Bali,Indonesia,2025-04-20 00:00:00,2025-04-23 00:00:00,3,4711,Airbnb,Train,4,Family,3,8,Mobile App,Summer,68,Female,High,56,Yes,1
+eb589597-2d8f-4edd-8d6d-d8c70bb6f85d,Barcelona,Spain,2025-12-11 00:00:00,2025-12-18 00:00:00,7,3969,Hotel,Plane,7,Cultural,4,1,Direct Booking,Spring,33,Male,Middle,87,No,2
+f1d88b75-09fe-4f60-b4d4-0158073d0889,Barcelona,Spain,2025-08-15 00:00:00,2025-08-19 00:00:00,4,2781,Airbnb,Plane,8,Business,2,2,Online,Spring,66,Male,Middle,43,No,4
+25d3bed6-b83c-46ec-9b0e-a3d9f37e0505,Sydney,Australia,2025-01-02 00:00:00,2025-01-17 00:00:00,15,3785,Camping,Bus,1,Cultural,2,7,Direct Booking,Winter,62,Other,High,34,Yes,3
+26c53e39-3c08-49d0-9179-32d22a67c3ec,Sydney,Australia,2025-06-10 00:00:00,2025-06-12 00:00:00,2,5244,Hotel,Plane,12,Honeymoon,5,1,Mobile App,Summer,21,Other,Low,95,Yes,5
+28ed6869-eec2-4417-a034-62b723bf0932,Bangkok,Thailand,2025-05-07 00:00:00,2025-05-19 00:00:00,12,2426,Airbnb,Ship,7,Business,1,10,Online,Winter,60,Other,Upper-Middle,18,Yes,3
+600e51ea-9680-4b71-996f-7531b48783d8,Sydney,Australia,2025-06-11 00:00:00,2025-06-17 00:00:00,6,3742,Hotel,Plane,3,Cultural,3,8,Online,Spring,52,Male,Upper-Middle,54,No,1
+b23385de-ec82-4e87-8d0f-07c0e9f7c786,Sydney,Australia,2025-12-27 00:00:00,2026-01-03 00:00:00,7,2834,Resort,Ship,3,Family,4,9,Online,Autumn,60,Male,Middle,78,Yes,1
+49f89842-439d-41f6-9c45-bb4cd8cdad1d,Hanoi,Vietnam,2025-06-25 00:00:00,2025-06-29 00:00:00,4,2731,Hostel,Bus,5,Honeymoon,5,4,Mobile App,Autumn,21,Male,High,98,Yes,1
+36ada5f3-780a-4b9e-b7fd-20a1d445c7b3,Bali,Indonesia,2025-08-15 00:00:00,2025-08-29 00:00:00,14,1571,Airbnb,Car,11,Honeymoon,3,3,Online,Spring,22,Other,Middle,67,Yes,3
+a64cc597-a074-49ba-b807-3a7762f6bd3c,Cape Town,South Africa,2025-06-07 00:00:00,2025-06-17 00:00:00,10,1713,Resort,Plane,7,Adventure,2,1,Travel Agency,Summer,60,Male,Upper-Middle,47,No,5
+357084c3-4efc-4e21-8fc7-f0a95f3fb32a,Seoul,South Korea,2025-04-02 00:00:00,2025-04-07 00:00:00,5,1831,Resort,Car,3,Family,4,1,Travel Agency,Autumn,28,Other,Low,82,Yes,4
+f684b7d9-7930-48c3-b75e-419d06d2e9ba,Sydney,Australia,2025-04-25 00:00:00,2025-04-30 00:00:00,5,4270,Hotel,Train,6,Cultural,3,4,Direct Booking,Autumn,22,Female,Upper-Middle,70,No,5
+2faa481b-474d-4dfd-84e9-480d72218c2d,Bali,Indonesia,2025-05-16 00:00:00,2025-05-18 00:00:00,2,1444,Hotel,Plane,5,Honeymoon,2,10,Mobile App,Autumn,64,Female,High,49,Yes,4
+a11d0aeb-5949-42d3-8314-9d4379dd6e06,Cape Town,South Africa,2025-09-24 00:00:00,2025-09-29 00:00:00,5,2586,Airbnb,Train,1,Adventure,4,1,Mobile App,Spring,60,Female,Upper-Middle,73,No,5
+c38cb53b-90db-4282-a7af-f5677c81f28c,London,UK,2025-10-11 00:00:00,2025-10-23 00:00:00,12,3845,Hostel,Train,6,Cultural,4,5,Mobile App,Summer,57,Other,Upper-Middle,82,Yes,3
+848835ea-eb08-4ac2-9cc4-b1b6957be4d3,London,UK,2025-08-27 00:00:00,2025-09-01 00:00:00,5,4021,Camping,Car,10,Family,5,6,Travel Agency,Winter,68,Other,Middle,92,No,5
+5d7ed062-b424-46d4-8d5d-0aaa18a62eac,Cape Town,South Africa,2025-04-12 00:00:00,2025-04-19 00:00:00,7,1265,Hostel,Plane,4,Business,3,4,Travel Agency,Winter,57,Male,High,63,Yes,4
+05cae093-a822-447e-b1bc-6d7cc553691c,Istanbul,Turkey,2025-08-06 00:00:00,2025-08-14 00:00:00,8,2498,Hostel,Train,3,Family,1,2,Mobile App,Spring,53,Male,Low,24,Yes,4
+d3c0071f-b924-4cb4-b20f-bf3c139dcb86,Hanoi,Vietnam,2025-09-16 00:00:00,2025-09-26 00:00:00,10,5377,Camping,Ship,6,Cultural,4,10,Travel Agency,Winter,46,Female,Middle,90,No,5
+20635cb6-ea56-442b-bd5d-293e0ed69a51,Istanbul,Turkey,2025-05-27 00:00:00,2025-06-08 00:00:00,12,2459,Hostel,Bus,5,Adventure,4,2,Direct Booking,Spring,26,Male,Middle,82,Yes,2
+ac44c826-7b83-4c32-ae0a-19d0d130c0e1,Bangkok,Thailand,2025-08-01 00:00:00,2025-08-09 00:00:00,8,3839,Hotel,Train,6,Cultural,5,8,Mobile App,Spring,66,Other,High,100,Yes,3
+fff9c986-f8c6-4ecb-8fec-5b5aaa09d1a3,London,UK,2025-11-05 00:00:00,2025-11-19 00:00:00,14,3694,Hostel,Car,7,Leisure,5,9,Direct Booking,Winter,49,Male,High,100,No,2
+0094ab53-74aa-4abc-a02e-a351d2824c4f,Istanbul,Turkey,2025-10-31 00:00:00,2025-11-04 00:00:00,4,5597,Airbnb,Plane,9,Business,1,7,Mobile App,Summer,47,Male,Low,18,No,3
+0c9d7c1e-0bab-4653-b027-51c5cdbeb038,Sydney,Australia,2025-08-04 00:00:00,2025-08-13 00:00:00,9,3177,Resort,Plane,6,Cultural,4,5,Online,Spring,40,Male,Low,90,Yes,1
+34dfb7e8-1875-4d1c-85ec-268d1b2500f3,Sydney,Australia,2025-03-06 00:00:00,2025-03-11 00:00:00,5,666,Camping,Plane,10,Honeymoon,2,4,Travel Agency,Winter,62,Female,Upper-Middle,35,Yes,2
+8442e4da-1967-455f-b08c-5dbbdce7d359,London,UK,2025-12-13 00:00:00,2025-12-16 00:00:00,3,5240,Camping,Car,1,Family,3,10,Travel Agency,Spring,55,Other,Middle,53,No,5
+c6ab7065-3c1f-4c11-8eea-2630fdf733ad,Bangkok,Thailand,2025-08-08 00:00:00,2025-08-22 00:00:00,14,5136,Resort,Plane,1,Honeymoon,3,9,Direct Booking,Spring,44,Female,Low,63,No,4
+4ac6e750-3d29-483e-812f-d6f616bfe0f3,Seoul,South Korea,2025-11-12 00:00:00,2025-11-20 00:00:00,8,1942,Airbnb,Car,12,Cultural,5,5,Mobile App,Autumn,38,Male,Low,98,No,2
+7de43d13-53e0-4327-92c9-effbc78ff8a2,Istanbul,Turkey,2025-01-15 00:00:00,2025-01-26 00:00:00,11,5499,Camping,Bus,11,Leisure,4,6,Mobile App,Summer,40,Female,Upper-Middle,78,No,5
+0e8c4695-1fdd-4416-a428-2b543ff69771,Paris,France,2025-09-08 00:00:00,2025-09-18 00:00:00,10,2065,Airbnb,Train,2,Family,2,7,Mobile App,Winter,46,Male,Low,39,Yes,4
+f8f45698-1de0-4f44-89b2-cc889e3918d4,Sydney,Australia,2025-10-11 00:00:00,2025-10-17 00:00:00,6,5939,Airbnb,Bus,10,Cultural,3,8,Direct Booking,Autumn,62,Female,Upper-Middle,59,No,2
+e1b3055c-1825-4154-9c2d-b4ceb0fb760d,Bangkok,Thailand,2025-12-20 00:00:00,2026-01-02 00:00:00,13,2077,Hostel,Train,6,Leisure,1,9,Mobile App,Autumn,64,Other,Upper-Middle,13,Yes,3
+1120083a-d667-4b17-95b9-104088487094,Sydney,Australia,2025-03-06 00:00:00,2025-03-13 00:00:00,7,1969,Resort,Plane,5,Business,1,9,Direct Booking,Summer,58,Female,Low,10,No,4
+089a15a8-cd98-4635-82f3-591fdd59889b,Istanbul,Turkey,2025-09-02 00:00:00,2025-09-11 00:00:00,9,3291,Hotel,Plane,3,Cultural,1,5,Mobile App,Spring,54,Other,Low,14,Yes,5
+edaab8da-48b5-468f-8d43-37d803bb8b93,London,UK,2025-11-07 00:00:00,2025-11-10 00:00:00,3,2533,Airbnb,Ship,2,Leisure,5,7,Mobile App,Winter,46,Female,High,99,Yes,5
+ba6a5134-a74a-4028-bcfb-e2bf360c72e0,Bangkok,Thailand,2025-12-05 00:00:00,2025-12-19 00:00:00,14,2202,Hotel,Train,11,Leisure,2,5,Travel Agency,Spring,28,Male,High,44,No,3
+ab8e96ef-bd10-442b-9d88-21f582b113fa,Paris,France,2025-02-06 00:00:00,2025-02-11 00:00:00,5,2860,Hostel,Bus,12,Family,3,8,Travel Agency,Winter,25,Other,Middle,70,Yes,3
+74af0cc9-476d-418b-ba8a-fd502cce1227,Seoul,South Korea,2025-10-19 00:00:00,2025-10-22 00:00:00,3,988,Resort,Car,3,Business,3,10,Mobile App,Autumn,62,Female,Upper-Middle,66,No,4
+403127bd-2e57-467c-8892-dc55dfe64c18,Bangkok,Thailand,2025-05-09 00:00:00,2025-05-20 00:00:00,11,826,Hotel,Plane,7,Leisure,3,10,Online,Autumn,54,Male,Middle,65,No,3
+65883c6d-4fc9-4029-b682-1772c2008786,Seoul,South Korea,2025-08-29 00:00:00,2025-09-09 00:00:00,11,4070,Resort,Car,11,Adventure,4,2,Direct Booking,Spring,28,Female,High,85,No,4
+d010162f-49e7-4850-9c27-58d51fcb4de4,Hanoi,Vietnam,2025-06-15 00:00:00,2025-06-17 00:00:00,2,4225,Hotel,Car,2,Honeymoon,3,5,Online,Winter,44,Male,Middle,66,No,5
+0c7e80a3-7273-4265-a56b-401ee7e6194e,Istanbul,Turkey,2025-10-09 00:00:00,2025-10-21 00:00:00,12,4121,Hostel,Bus,1,Cultural,2,5,Mobile App,Spring,19,Other,Middle,35,No,5
+e42f00a2-9fe6-4c85-bc11-915e22856858,Paris,France,2025-08-25 00:00:00,2025-09-04 00:00:00,10,3842,Hotel,Train,2,Cultural,2,2,Direct Booking,Autumn,44,Female,High,37,No,5
+1b86ca81-20cf-4c48-a61b-f4f4b97bee7f,Seoul,South Korea,2025-02-05 00:00:00,2025-02-13 00:00:00,8,2061,Resort,Car,10,Adventure,5,3,Direct Booking,Spring,36,Other,Upper-Middle,100,No,2
+f3df2334-86c1-4633-869e-30031f8b2719,Istanbul,Turkey,2025-10-06 00:00:00,2025-10-16 00:00:00,10,4467,Camping,Car,6,Adventure,3,9,Travel Agency,Summer,54,Female,Middle,63,Yes,3
+d5491a53-2a9c-42ff-b8b3-01de24fa8a4f,Istanbul,Turkey,2025-01-19 00:00:00,2025-02-01 00:00:00,13,3623,Hostel,Ship,7,Honeymoon,2,8,Direct Booking,Spring,46,Male,High,30,Yes,4
+1f061c34-0dba-4f8d-80f9-41caaaaefeca,Seoul,South Korea,2025-12-21 00:00:00,2025-12-24 00:00:00,3,4346,Camping,Plane,5,Adventure,3,10,Mobile App,Autumn,58,Other,High,67,Yes,5
+7603bd40-1da7-4c2d-be6c-9c3af5099c99,Bangkok,Thailand,2025-02-16 00:00:00,2025-02-21 00:00:00,5,5670,Camping,Plane,11,Family,3,4,Online,Winter,28,Other,Upper-Middle,50,Yes,3
+5bb769ff-8767-4f4e-847d-90bbf3fa455b,Paris,France,2025-05-06 00:00:00,2025-05-12 00:00:00,6,3436,Airbnb,Car,6,Honeymoon,4,3,Travel Agency,Summer,29,Male,High,89,Yes,4
+a5c4fe7f-aa58-4896-8687-3112842bbdd9,Cape Town,South Africa,2025-05-11 00:00:00,2025-05-15 00:00:00,4,2402,Hotel,Car,8,Adventure,3,8,Travel Agency,Spring,46,Female,Upper-Middle,70,No,3
+0a69fc78-8823-4d0a-a75a-ff72b8f91e51,Istanbul,Turkey,2025-02-24 00:00:00,2025-03-11 00:00:00,15,2974,Hostel,Car,4,Honeymoon,4,8,Direct Booking,Autumn,62,Female,Low,82,No,1
+c46849b4-8820-49dc-8eb2-e08a8ee8b8ef,Cape Town,South Africa,2025-04-28 00:00:00,2025-05-13 00:00:00,15,901,Airbnb,Bus,10,Leisure,4,5,Travel Agency,Autumn,61,Other,Middle,90,Yes,1
+110911d6-8c8c-43f5-9e00-d5b1222d972b,London,UK,2025-03-09 00:00:00,2025-03-23 00:00:00,14,4111,Hotel,Bus,1,Adventure,5,6,Mobile App,Summer,30,Male,Upper-Middle,100,No,2
+8484858b-784f-48f8-a6c3-b4d5f2150f7d,London,UK,2025-08-28 00:00:00,2025-09-12 00:00:00,15,4447,Hotel,Train,5,Leisure,3,2,Mobile App,Autumn,23,Female,Low,58,Yes,4
+832dc062-85a2-45aa-9bc6-6d8a1d36d753,Bali,Indonesia,2025-02-25 00:00:00,2025-03-09 00:00:00,12,2647,Hostel,Car,10,Business,4,6,Direct Booking,Summer,59,Male,High,79,No,1
+97ca1ee5-2c6f-4f29-9288-ba3125bc7ef1,Seoul,South Korea,2025-02-19 00:00:00,2025-02-21 00:00:00,2,804,Hostel,Ship,5,Leisure,4,2,Mobile App,Winter,41,Other,High,88,Yes,4
+69274449-fa15-4cf7-b93f-1d7b534691c1,Bangkok,Thailand,2025-01-17 00:00:00,2025-02-01 00:00:00,15,4508,Resort,Train,10,Cultural,4,5,Mobile App,Summer,41,Male,Upper-Middle,87,No,1
+2f98cc70-4af9-440b-a188-a12b4c953a07,Barcelona,Spain,2025-12-06 00:00:00,2025-12-12 00:00:00,6,2054,Hostel,Ship,2,Business,4,2,Online,Autumn,33,Male,Middle,72,Yes,5
+06faff4e-79aa-4970-a335-57c5d65dbb04,Sydney,Australia,2025-01-02 00:00:00,2025-01-17 00:00:00,15,2408,Resort,Train,6,Leisure,2,10,Direct Booking,Summer,25,Other,Low,34,Yes,3
+e31dee4f-2615-48b7-a0de-c668115eb034,Sydney,Australia,2025-01-27 00:00:00,2025-02-07 00:00:00,11,3152,Hostel,Car,1,Honeymoon,2,5,Online,Spring,48,Female,Upper-Middle,46,Yes,4
+b1d2427a-9ec5-44af-887f-192f4dec7db0,Hanoi,Vietnam,2025-08-23 00:00:00,2025-08-28 00:00:00,5,5538,Hotel,Plane,1,Cultural,5,5,Mobile App,Winter,61,Male,High,100,Yes,1
+b19bba10-ec4e-45c2-996c-56a029c4b438,Bali,Indonesia,2025-11-16 00:00:00,2025-11-27 00:00:00,11,1715,Airbnb,Ship,2,Family,2,5,Direct Booking,Winter,56,Other,Upper-Middle,44,No,1
+5cf7e6fe-fb68-486c-b7c6-ed7349f98c07,Bangkok,Thailand,2025-08-09 00:00:00,2025-08-24 00:00:00,15,5863,Camping,Train,11,Cultural,5,4,Direct Booking,Winter,43,Female,Low,100,No,3
+a6b5a812-1bf1-4f0d-832f-1821c6d67af9,London,UK,2025-02-16 00:00:00,2025-02-23 00:00:00,7,1750,Hotel,Plane,11,Cultural,4,2,Online,Autumn,69,Male,Low,88,No,1
+2cf9256b-ea4a-4c72-acdd-0453a067885e,Barcelona,Spain,2025-11-04 00:00:00,2025-11-11 00:00:00,7,5950,Resort,Bus,7,Business,1,5,Travel Agency,Summer,60,Female,Middle,13,No,5
+c3a921bc-cfb1-422e-9639-a2c59e62e5f3,Bali,Indonesia,2025-10-15 00:00:00,2025-10-18 00:00:00,3,2782,Airbnb,Ship,10,Family,2,7,Online,Autumn,19,Male,Upper-Middle,39,No,3
+38e11a9d-2683-42a4-82dd-c7d7551f009a,Paris,France,2025-03-14 00:00:00,2025-03-18 00:00:00,4,1673,Hotel,Plane,10,Family,4,2,Travel Agency,Winter,44,Female,Upper-Middle,75,No,3
+176e0d26-1293-4d5d-83ac-f34f5b9d2ed6,Bali,Indonesia,2025-03-21 00:00:00,2025-04-04 00:00:00,14,5149,Hostel,Ship,10,Business,1,1,Online,Autumn,46,Other,High,25,No,4
+4f441c0f-92e4-4a42-ae47-3397f45e7d60,London,UK,2025-02-26 00:00:00,2025-03-03 00:00:00,5,4697,Resort,Ship,2,Cultural,3,7,Direct Booking,Spring,32,Female,Low,50,Yes,3
+5e316a04-41a3-451a-a741-1449a32162e9,Sydney,Australia,2025-03-03 00:00:00,2025-03-17 00:00:00,14,1624,Hotel,Car,5,Family,3,6,Mobile App,Summer,26,Female,Middle,66,No,1
+bd849073-ba5c-4fc6-b88a-41313d07a012,Barcelona,Spain,2025-02-09 00:00:00,2025-02-24 00:00:00,15,846,Resort,Ship,7,Cultural,1,8,Mobile App,Winter,36,Male,High,10,No,2
+fc254762-a42d-4921-8a84-46a13b525e3e,Cape Town,South Africa,2025-05-05 00:00:00,2025-05-14 00:00:00,9,3464,Camping,Ship,2,Cultural,4,2,Online,Winter,37,Other,Upper-Middle,77,No,2
+157d60f7-08d1-4c05-a251-1ea2a0122942,Bangkok,Thailand,2025-04-10 00:00:00,2025-04-20 00:00:00,10,5687,Resort,Bus,2,Family,5,9,Travel Agency,Summer,24,Male,Upper-Middle,96,Yes,5
+420c1986-08c9-43a4-b07f-c5946350357d,Seoul,South Korea,2025-08-26 00:00:00,2025-09-09 00:00:00,14,5869,Airbnb,Ship,2,Cultural,2,8,Direct Booking,Autumn,27,Female,Low,45,No,3
+504d153d-f59f-4de6-b325-05cc1240ddeb,London,UK,2025-06-08 00:00:00,2025-06-19 00:00:00,11,960,Camping,Car,6,Business,5,2,Online,Autumn,36,Male,Low,100,No,4
+d6e60a84-7688-40e4-94cb-0c14177f36f2,Cape Town,South Africa,2025-06-14 00:00:00,2025-06-24 00:00:00,10,836,Airbnb,Car,8,Honeymoon,5,4,Travel Agency,Spring,46,Male,Upper-Middle,92,Yes,1
+808b9b60-2cf2-4a1f-a5fc-21a4b11783fc,Sydney,Australia,2025-11-09 00:00:00,2025-11-22 00:00:00,13,4086,Hostel,Bus,8,Adventure,5,9,Direct Booking,Winter,44,Female,Low,100,No,1
+1c5ccfba-2561-4a9d-9784-5f9e5b47b523,Bali,Indonesia,2025-05-10 00:00:00,2025-05-13 00:00:00,3,5070,Airbnb,Train,11,Adventure,4,5,Online,Summer,40,Female,High,74,Yes,3
+f6bba2c6-226f-435e-bd48-6bb9b6587b50,Hanoi,Vietnam,2025-02-17 00:00:00,2025-02-25 00:00:00,8,5771,Camping,Ship,6,Adventure,2,9,Online,Autumn,37,Male,Middle,40,No,2
+86360c40-9b51-42ec-ae5c-f261b42b5119,Sydney,Australia,2025-09-17 00:00:00,2025-09-21 00:00:00,4,1769,Airbnb,Ship,2,Business,3,2,Direct Booking,Summer,56,Female,Middle,55,Yes,5
+1913ff10-3d73-4cd1-aa5a-d552ce87afd4,Seoul,South Korea,2025-12-13 00:00:00,2025-12-26 00:00:00,13,4085,Hostel,Car,1,Honeymoon,4,6,Direct Booking,Winter,32,Other,Middle,79,No,2
+dd1d9b5d-5cf7-456a-85f7-355c627b4aa9,Bali,Indonesia,2025-07-15 00:00:00,2025-07-27 00:00:00,12,5172,Airbnb,Ship,8,Cultural,4,5,Travel Agency,Summer,69,Other,Middle,78,Yes,4
+da2af0d5-6a6e-4a6a-bd60-838e7c41163c,Bali,Indonesia,2025-05-26 00:00:00,2025-06-05 00:00:00,10,1340,Hotel,Train,12,Adventure,5,2,Mobile App,Summer,45,Male,Middle,100,No,1
+422d555b-3612-49bb-addd-44ced3880534,Barcelona,Spain,2025-07-17 00:00:00,2025-07-19 00:00:00,2,3747,Hotel,Bus,9,Leisure,3,4,Online,Autumn,24,Other,Upper-Middle,54,Yes,1
+48ff8419-5edb-4ba3-80d7-385dd06cf3c5,London,UK,2025-08-18 00:00:00,2025-09-02 00:00:00,15,4370,Airbnb,Plane,12,Business,2,8,Online,Autumn,31,Male,High,33,No,2
+616a1e4a-eb4a-4058-9301-399f30df5555,London,UK,2025-08-23 00:00:00,2025-08-26 00:00:00,3,891,Hotel,Plane,4,Cultural,4,10,Online,Summer,63,Male,Upper-Middle,83,Yes,5
+79a5d8a9-9b39-4bb9-babb-0e294cba9efe,Bali,Indonesia,2025-09-26 00:00:00,2025-10-01 00:00:00,5,5174,Resort,Plane,7,Honeymoon,2,2,Online,Winter,48,Male,High,41,No,1
