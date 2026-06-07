@@ -2,7 +2,7 @@
 https://colab.research.google.com/drive/1ul3mTP0OhJzyVGsMWA01pQMP9OYmqssq?usp=sharing
 https://www.canva.com/design/DAHLO2zskrU/c69A6OoOboSUaZO6sXkQsQ/edit
 
-2. Lâm Khánh: tourism_data
+2. Lâm Khánh: travel_details_dataset
 https://colab.research.google.com/drive/1C398FoGY1ZDDtCN0rU1klrPeja10kxK-
 https://www.canva.com/design/DAHLO9dTrFo/b9-x-fAlpKtOWZgMDBGptw/edit
 
