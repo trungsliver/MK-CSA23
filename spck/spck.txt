@@ -8,6 +8,7 @@ https://www.canva.com/design/DAHLO9dTrFo/b9-x-fAlpKtOWZgMDBGptw/edit
 
 3. Duy Anh: superstore_data
 https://colab.research.google.com/drive/1ZTZBaQasnzDC5ct7XduYYS4Y4ijqZtoU?usp=sharing
+https://www.canva.com/design/DAHMcTQ_wmw/mg11RxZneUdALV-_S0QzcA/edit
 
 4. Thu Hương: diabetes_dataset
 https://colab.research.google.com/drive/10Z_9yrmltahpUFAlyGJX5jmMA1W8b1BQ
